@@ -1,7 +1,7 @@
 # Hi there, I'm Shajib Chanda 👋
 *(Final Year BSc in CSE Student)*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="50%" />
+  <img width="50%" alt="Image" src="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" />
 </p>
 
 ---
