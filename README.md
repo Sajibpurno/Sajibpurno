@@ -84,11 +84,8 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
   <a href="https://cat-10-kx7m.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Sajibpurno/CAT-10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Client-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://github.com/Sajibpurno/CAT-10-Server" target="_blank">
-  <img width="1908" height="903" alt="Image" src="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" />
+  <img width="50%" height="903" alt="Image" src="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" />
   </a>
 </p>
 
