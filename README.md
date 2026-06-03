@@ -70,8 +70,9 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 ## 🚀 Featured Projects
 
 ### 🐾 PetHaven - Pet Adoption Platform
-
+<p  align="center">
 <img width="50%" alt="Image" src="https://github.com/user-attachments/assets/38addaf8-9a82-4565-98e2-ebeb8b97c45f" />
+</p>
 
 <p align="left">
   <a href="https://cat-10-kx7m.vercel.app/" target="_blank">
