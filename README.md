@@ -1,7 +1,7 @@
 # Hi there, I'm Shajib Chanda 👋
 *(Final Year BSc in CSE Student)*
 <p align="center">
-  <img width="50%" alt="Image" src="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" />
+  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="50%" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 
 ### 🐾 PetHaven - Pet Adoption Platform
 
-<img rc="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" width="50%" />
+<img width="50%" alt="Image" src="https://github.com/user-attachments/assets/38addaf8-9a82-4565-98e2-ebeb8b97c45f" />
 
 <p align="left">
   <a href="https://cat-10-kx7m.vercel.app/" target="_blank">
