@@ -88,7 +88,7 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
     <img src="https://img.shields.io/badge/GitHub%20Client-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Sajibpurno/CAT-10-Server" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Server-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img width="1908" height="903" alt="Image" src="https://github.com/user-attachments/assets/708fd5b7-85ca-4451-a246-76e5554dcfbd" />
   </a>
 </p>
 
