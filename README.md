@@ -74,7 +74,29 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 </p>
 
 ---
+## 🚀 Featured Projects
 
+### 🐾 PetHaven - Pet Adoption Platform
+
+<img src="https://github.com/user-attachments/assets/9845d106-f50a-494e-a8be-12f5fd4ab708" width="100%" />
+
+<p align="left">
+  <a href="https://cat-10-kx7m.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sajibpurno/CAT-10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Client-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sajibpurno/CAT-10-Server" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Server-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+Built a full-stack pet adoption platform where users can browse pets, submit adoption requests, and manage listings. Implemented secure authentication with Better Auth, protected private routes with JWT, and built a dashboard for pet owners to approve/reject requests. Features include real-time search & filter, dark/light theme, and fully responsive UI.
+
+**Tech:** Next.js · Express.js · MongoDB · Better Auth · JWT · Tailwind CSS · HeroUI · daisyUI
+
+---
 ## 👀 Profile Views
 
 <p align="left">
