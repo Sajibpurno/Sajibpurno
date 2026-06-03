@@ -43,8 +43,8 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 ## 🔗 Social Links
 <p align="left">
   <a href="https://personal-portfolio-virid-two-77.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>  
+  <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>  
   <a href="https://www.linkedin.com/in/sajib-purno-a0ba40320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
