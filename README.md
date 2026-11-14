@@ -1,5 +1,5 @@
 # Hi there, I'm Shajib Chanda 👋
-*(Final Year BSc in CSE Student)*
+*(BSc in CSE Graduate · Full-Stack Web Developer)*
 <p align="center">
   <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="60%" />
 </p>
@@ -36,33 +36,21 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 
 ---
 
-## 🔗 Social Links
-<p align="left">
-  <a href="https://personal-portfolio-virid-two-77.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>  
-  <a href="https://www.linkedin.com/in/sajib-purno-a0ba40320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sajib_.purno/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajib_purno) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sajib.chanda.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajib_.purno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajib-purno-a0ba40320) 
+
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajibpurno&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajibpurno&layout=compact&theme=radical" height="165"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sajibpurno&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Sajibpurno&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sajibpurno&theme=radical" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
