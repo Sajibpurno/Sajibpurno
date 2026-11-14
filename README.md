@@ -1,18 +1,14 @@
+# Hi there, I'm Shajib Chanda 👋
+*(BSc in CSE Graduate · Full-Stack Web Developer)*
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=50&lines=Hi+there%2C+I'm+Shajib+Chanda+👋;Final-Year+CSE+Student+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="65%" />
+  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="60%" />
 </p>
 
 ---
 
 # 💫 About Me:
-I am a passionate Full-Stack Developer and final-year Computer Science student. I love building digital solutions and exploring new technologies.<br><br>
-🔭 Currently working on **SunCart - Premium Digital Asset Marketplace**<br>
-🌱 Learning Node.js, Express.js, and advanced Web Security<br>
-⚡ Exploring System Design & Scalable Backend Architecture<br>
+I am a passionate Frontend Developer now and a final year Computer Science student. I love building digital solutions and exploring new technologies.<br><br>🔭 Currently working on Project of customer - Premium Digital Asset Marketplace<br>🌱 Learning Node.js express.js and advanced Web Security<br>⚡ Researching Specific topic<br>
+
 
 ---
 
@@ -84,12 +80,8 @@ I am a passionate Full-Stack Developer and final-year Computer Science student. 
 ---
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://discord.gg/sajib_purno" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/sajib.chanda.77" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/sajib_.purno" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sajib-purno-a0ba40320" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajib_purno) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sajib.chanda.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajib_.purno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajib-purno-a0ba40320) 
+
 
 ---
 
@@ -102,16 +94,18 @@ I am a passionate Full-Stack Developer and final-year Computer Science student. 
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🐾 PetHaven - Pet Adoption Platform
-<p align="center">
-  <img width="60%" alt="PetHaven Preview" src="https://github.com/user-attachments/assets/38addaf8-9a82-4565-98e2-ebeb8b97c45f" />
+<p  align="center">
+<img width="50%" alt="Image" src="https://github.com/user-attachments/assets/38addaf8-9a82-4565-98e2-ebeb8b97c45f" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://cat-10-kx7m.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -130,8 +124,6 @@ Built a full-stack pet adoption platform where users can browse pets, submit ado
 ---
 
 ## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajibpurno&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sajibpurno&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
