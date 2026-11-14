@@ -1,18 +1,14 @@
 # Hi there, I'm Shajib Chanda 👋
 *(Final Year BSc in CSE Student)*
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="50%" />
+  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="60%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me:
+I am a passionate Frontend Developer now and a final year Computer Science student. I love building digital solutions and exploring new technologies.<br><br>🔭 Currently working on Project of customer - Premium Digital Asset Marketplace<br>🌱 Learning Node.js express.js and advanced Web Security<br>⚡ Researching Specific topic<br>
 
-I am a passionate Frontend Developer now and a final year Computer Science student. I love building digital solutions and exploring new technologies.
-
-- 🔭 Currently working on **SunCart - Premium Digital Asset Marketplace**
-- 🌱 Learning **Node.js** **express.js** and advanced **Web Security**
-- ⚡ Researching **Specific topic**
 
 ---
 
