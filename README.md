@@ -44,11 +44,11 @@ I am a passionate Frontend Developer now and a final year Computer Science stude
 
 # 📊 GitHub Stats:
 <p align="center">
-![](https://github-readme-stats.shion.dev/api?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sajibpurno&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+  <img src="https://github-readme-stats.shion.dev/api?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=Sajibpurno&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sajibpurno&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
