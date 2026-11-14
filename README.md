@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me:
-I am a passionate Frontend Developer now and a final year Computer Science student. I love building digital solutions and exploring new technologies.<br><br>🔭 Currently working on Project of customer - Premium Digital Asset Marketplace<br>🌱 Learning Node.js express.js and advanced Web Security<br>⚡ Researching Specific topic<br>
+Hi, I'm Sajib, Full Stack Developer and final-year Computer Science student with hands-on experience in building scalable, secure web applications. I enjoy turning ideas into reliable digital products and exploring new technologies.<br><br>🔭 Currently building: Premium Digital Asset Marketplace (client project)<br>🌱 Learning Node.js express.js and advanced Web Security<br>⚡ Researching Specific topic<br> 💼 Backend Intern at S&S Digital Technologies<br> 📍 Based in Sylhet, Bangladesh<br>
 
 
 ---
